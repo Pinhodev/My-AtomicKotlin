@@ -2,5 +2,6 @@
 package dataTypesExercise1
 
 fun main() {
-  // TODO
+  var answer = "42"
+  var answer1 ="unknown"
 }
