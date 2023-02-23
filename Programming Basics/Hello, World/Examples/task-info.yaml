@@ -1,0 +1,9 @@
+type: theory
+files:
+- name: src/HelloWorld.kt
+  visible: true
+  encrypted_text: /OymcGg7LGdtLNDBC+pIJmiSo2/M6itd/rvRj+aLXCUBYP6JA+UZqU4r/Nkw6BS0gkUqlBN59n4nGZfzXBmMIcKng9GGY9DYR4vZrqlmxXVe5QQvAA+0+i8MYTx3htYhOyCf5qjyak2XKEXbUZHtAQ==
+  learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true
